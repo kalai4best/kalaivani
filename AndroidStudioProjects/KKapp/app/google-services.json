@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023027665721",
+    "firebase_url": "https://kkapphello.firebaseio.com",
+    "project_id": "kkapphello",
+    "storage_bucket": "kkapphello.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023027665721:android:7e0bd40936009cce",
+        "android_client_info": {
+          "package_name": "com.example.administrator.kkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023027665721-en004behetvfsbnbui1hhtubcsashqen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.kkapp",
+            "certificate_hash": "25daddc180eacd26de8ed3731b42e69f5ba2a8f0"
+          }
+        },
+        {
+          "client_id": "1023027665721-p20rakl6fjl4lqelq6gfiseueq85jkcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_HVz9bEpRP31Dudoh9fAuoP0BTtTvRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023027665721-p20rakl6fjl4lqelq6gfiseueq85jkcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
